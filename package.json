@@ -2,7 +2,7 @@
   "name": "editable-form-field",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://abishek-lakshmanan.github.io/{form-edit}",
+  "homepage": "http://abishek-lakshmanan.github.io/form-edit",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
